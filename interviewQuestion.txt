@@ -1,0 +1,21 @@
+Q1. Package.Json
+Q2. Mongo Connection
+Q3. Middleware next
+Q4. why use Specific framework
+Q5. event Loop
+Q6. module name wich used in project
+Q7. print hello world in node js with express and without express
+Q8. module.exports
+Q9. count paragraph of words 
+Q10. Event Emitter
+Q11. Global variable in Node js 
+Q12. How handle Blocking / non Blocking 
+Q13. write a node js server 
+Q14. Es6 feature 
+Q15. what is the Advantages of the node js 
+Q16. What is CallBack hell , how to overcome 
+Q17. what is the Advantages express js top of the Node js 
+Q18. Error Handling in node js 
+Q19. Promise CallBack Async and await 
+Q20. Call Apply Bind 
+Q21. given a string with capital and small and return if capital letter matched 
